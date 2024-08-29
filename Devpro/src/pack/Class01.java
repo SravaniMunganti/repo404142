@@ -12,6 +12,7 @@ public class Class01 {
 	public void m1()
 	{
 		//542
+		System.out.println("542");
 	}
 	
 	public void m2()
